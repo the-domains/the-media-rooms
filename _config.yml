@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#EFEBE0'
+    - '#1E1F24'
+    - '#57565C'
+    - '#832024'
+    - '#3C70D5'
+  rhythmicContrast: 0.6684621
+typography_spectrum: 0.4967777
+name: The Media Rooms
